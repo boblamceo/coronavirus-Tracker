@@ -11,5 +11,5 @@ Just a plain old coronavirus tracker!
 * [Leaflet](https://leafletjs.com/)
 * [React Leaflet](https://react-leaflet.js.org)
 
-![](Screen Shot%202020-05-10%20at%203.03.22%20PM.jpg)
+![](Screen%20Shot%202020-05-10%20at%203.03.22%20PM.png)
 
